@@ -10,5 +10,3 @@ a:o
 wowowi:2023
 sigma:boy
 q:q
-hola:mata
-papa:papa
